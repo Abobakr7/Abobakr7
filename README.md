@@ -1,4 +1,4 @@
-## Hi there 👋, I am Abobakr!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving-hand" />, I am Abobakr!
 
 A backend oriented software engineer passionate about developing efficient and scalable backend applications.
 
