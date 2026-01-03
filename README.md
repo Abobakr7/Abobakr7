@@ -18,6 +18,7 @@ A backend oriented software engineer passionate about developing efficient and s
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" width="60px" height="60px" alt="angular-logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="60px" height="60px" alt="mysql-logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="60px" height="60px" alt="mongodb-logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60px" height="60px" alt="docker-logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60px" height="60px" alt="git-logo" />
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60px" height="60px" alt="bash-logo" /> -->
 <!--   <img src="" width="60px" height="60px" alt="" /> -->
